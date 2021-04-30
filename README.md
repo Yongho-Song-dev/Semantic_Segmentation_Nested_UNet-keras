@@ -1,5 +1,5 @@
 # U-Net, U-Net++ model implementation and comparison
-- **using KITTI dataset**
+- **using KITTI dataset : http://www.cvlibs.net/datasets/kitti/eval_semantics.php**
 
 The purpose of the project is to compare the IoU of U-Net, U-Net++ models.  
 
